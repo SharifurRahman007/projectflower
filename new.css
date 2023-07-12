@@ -1,0 +1,147 @@
+.banner {
+    background-size: cover;
+    height: 400px;
+    background-color: lightpink;
+    padding-left: 150px;
+    padding-top: 100px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.fontsize1 {
+    font-size: 240%;
+}
+
+.fontsize2 {
+    font-size: 40%;
+    color: rgb(98, 100, 100);
+
+}
+
+.b1 {
+    background-color: coral;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+
+}
+
+.Featuredflowers {
+    display: flex;
+    margin-left: 20%;
+}
+
+.f1 {
+    background-color: bisque;
+    height: 350px;
+    width: 300px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.f2 {
+    background-color: rgb(244, 244, 244);
+    height: 350px;
+    width: 300px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.f3 {
+    background-color: rgb(198, 244, 226);
+    height: 350px;
+    width: 300px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.delevary {
+    background-color: aliceblue;
+    display: flex;
+    margin: 5%;
+    padding: 2%;
+    justify-content: space-around;
+    height: 50%;
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+
+}
+
+.banner2 {
+    background-size: cover;
+    height: 400px;
+    background-color: lightpink;
+    padding-left: 150px;
+    padding-top: 100px;
+    padding-right: 150px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.insta {
+    text-align: center;
+}
+
+.flowers4 {
+    justify-content: space-around;
+    margin-left: 10%;
+}
+
+.banner3 {
+    text-align: center;
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    height: 250px;
+    width: 85%;
+    margin-left: 8%;
+    padding-top: 5%;
+}
+
+.mail {
+    padding: 10px;
+
+}
+
+
+.b2 {
+    background-color: coral;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    padding: 4px;
+}
+
+.footer {
+    text-align: center;
+    background-size: cover;
+    height: 400px;
+    background-color: rgb(12, 11, 11);
+    padding-left: 150px;
+    padding-top: 100px;
+    padding-right: 150px;
+}
+
+.fontsize3 {
+    font-size: 240%;
+    color: aliceblue;
+}
